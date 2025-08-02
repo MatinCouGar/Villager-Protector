@@ -1,0 +1,11 @@
+name: VillagerProtector
+version: 1.0
+main: couger.plugin.villagerProtector118.VillagerProtectorPlugin
+author: MatinCougar
+api-version: 1.18
+website: https://modrinth.com/user/MatinCougar
+description: A simple plugin to toggle villager protection per player.
+commands:
+  villagerprotector:
+    description: Toggle villager protection
+    aliases: [vp]

@@ -4,10 +4,10 @@ Protect villagers from being harmed by player
 ![On](https://cdn.modrinth.com/data/cached_images/3262adc790bf67038a34a8f40d4511c2701dcc33_0.webp)
 ---
 ## ⚙️ Commands:
-### `/villagerprotector` on or `/vp on ` 
+### `/villagerprotector` on or `/vp off ` 
 ❌Allow hitting villagers  
 
-### `/villagerprotector off` or `/vp off  `
+### `/villagerprotector off` or `/vp on  `
 ✅Prevent hitting villagers
 
 ---
